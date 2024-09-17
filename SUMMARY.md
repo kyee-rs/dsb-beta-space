@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Whitepaper](README.md)
-
 ## bubblemap
 
-* [Introduction](bubblemap/usage.md)
+* [Introduction](README.md)
 * [Nodes](bubblemap/nodes.md)
 * [Clusters](bubblemap/clusters.md)
 
