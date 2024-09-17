@@ -6,6 +6,7 @@
 * [Nodes](bubblemap/nodes.md)
 * [Clusters](bubblemap/clusters.md)
 * [Security](bubblemap/security.md)
+* [Premium features](bubblemap/premium-features.md)
 
 ## Vocabulary
 
