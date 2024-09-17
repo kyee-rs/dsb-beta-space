@@ -1,15 +1,21 @@
 # Table of contents
 
-* [Whitepaper - Introduction to the DSB](README.md)
+* [Whitepaper](README.md)
 
-## Working with information
+## bubblemap
 
-* [Usage](working-with-information/usage.md)
-* [Reading the data](working-with-information/reading-the-data/README.md)
-  * [Successful Sniper Repors](working-with-information/reading-the-data/successful-sniper-repors.md)
-  * [Successful Scan Reports](working-with-information/reading-the-data/successful-scan-reports.md)
-  * [Errors](working-with-information/reading-the-data/errors.md)
+* [Introduction](bubblemap/usage.md)
+* [Nodes](bubblemap/nodes.md)
+* [Clusters](bubblemap/clusters.md)
 
 ## Vocabulary
 
+* [Deployer](vocabulary/deployer.md)
+* [Sniper](vocabulary/sniper.md)
+* [Wallet activity](vocabulary/wallet-activity.md)
 * [Layered Transfers](vocabulary/layered-transfers.md)
+* [Unknown node](vocabulary/unknown-node.md)
+
+***
+
+* [Disclaimer](disclaimer.md)
