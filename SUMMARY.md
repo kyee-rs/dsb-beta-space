@@ -5,6 +5,7 @@
 * [Introduction](README.md)
 * [Nodes](bubblemap/nodes.md)
 * [Clusters](bubblemap/clusters.md)
+* [Security](bubblemap/security.md)
 
 ## Vocabulary
 
